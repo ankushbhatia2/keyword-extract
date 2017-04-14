@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     packages=[''],
     url='https://github.com/asshatter/keyword-extract',
-    download_url = 'https://github.com/asshatter/keyword-extract/tarball/0.0.1',
+    download_url = 'https://github.com/asshatter/keyword-extract/releases/tag/0.0.1',
     license='MIT License',
     author='Ankush Bhatia',
     author_email='ankushbhatia02@gmail.com',
